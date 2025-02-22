@@ -1,2 +1,3 @@
 # Codsoft_Task1
 Codsoft Task 1:Portfolio
+This is a responsive and modern portfolio website developed as part of the CodSoft Virtual Internship to showcase my skills, projects, and professional journey. Built using HTML and CSS, the website features a clean UI with smooth navigation and a visually appealing design. The home section introduces me as a Frontend Developer, followed by sections for skills, projects, and contact information. A custom-styled button and gradient background enhance the overall look. The website is fully responsive, ensuring a seamless experience across devices. Hosted on GitHub Pages, this project serves as a foundation for my web development portfolio. Feel free to explore, fork, or contribute.
